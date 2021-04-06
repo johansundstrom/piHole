@@ -17,7 +17,7 @@ Förutsättningar
 ## Konfigurera DietPi-Config
 
 * Etablera fast IP i lokala nätverket samt korrekt IP till Default Gateway
-* 
+* Ange t.ex Google's DNS (8.8.8.8 och 8.8.4.4) som ny DNS 
 * Avsluta DietPi-Config
 * ```reboot```
 * Efter reboot uppdateras DietPi automatiskt
@@ -26,3 +26,13 @@ Förutsättningar
 
 * ```curl -sSL https://install.pi-hole.net | bash```
 * Installationen avslutas med IP och password - Notera detta
+
+## Konfigurera klienter
+
+### Manuellt
+
+* Uppdatera klienternas DNS till den nya IP adressen
+
+### Automatiskt med DHCP
+
+* Ange ny den nya IP adressen som DNS
