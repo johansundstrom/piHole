@@ -1,6 +1,6 @@
 # piHole
 
-Hur jag installerade PiHole
+Hur jag installerade PiHole på 15 minuter
 
 Förutsättningar
 * Pi3 Model B
