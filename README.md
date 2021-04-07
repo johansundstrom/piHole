@@ -4,7 +4,7 @@ Hur jag installerade PiHole på 15 minuter
 
 Förutsättningar
 * Pi3 Model B
-* 8GB RAM
+* 8GB SD
 * DietPi OS (64-bit)
 
 ## Installera DietPi (5 min)
