@@ -9,7 +9,7 @@ Förutsättningar
 
 ## Installera DietPi (5 min)
 
-* Hämta ```<a href="https://dietpi.com/">64-bit img-fil</a>``` och packa upp  
+* Hämta <a href="https://dietpi.com/">64-bit img-fil</a> och packa upp  
 * Med Raspberry Pi Imager flasha DietPi
 * Starta upp SD-kortet
 * Standard inloggning är root och dietpi
