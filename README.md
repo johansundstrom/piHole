@@ -7,7 +7,7 @@ Förutsättningar
 * 8GB RAM
 * DietPi OS (64-bit)
 
-## Install DietPi (5 min)
+## Installera DietPi (5 min)
 
 * Hämta 64-bit img-fil och packa upp https://dietpi.com/ 
 * Med Raspberry Pi Imager flasha DietPi
@@ -22,11 +22,13 @@ Förutsättningar
 * Avsluta DietPi-Config
 * ```reboot```
 * Efter reboot uppdateras DietPi automatiskt
+* Invänta uppdateringen
 
 ## Installera PiHole (4 min)
 
 * ```curl -sSL https://install.pi-hole.net | bash```
 * Installationen avslutas med IP och password - Notera detta
+* Byt till eget lösenord för PiHile ```pihole -a -p```
 
 ## Konfigurera klienter (1 min)
 
