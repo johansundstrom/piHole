@@ -10,7 +10,7 @@ Förutsättningar
 ## Install DietPi
 
 * Hämta 64-bit img-fil och packa upp https://dietpi.com/ 
-* Med Raspberry Pi Imager skriv DietPi
+* Med Raspberry Pi Imager flasha DietPi
 * Standard inloggning är root och dietpi
 * Byt lösenordet  
 
