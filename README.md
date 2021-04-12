@@ -18,6 +18,7 @@ Förutsättningar
 ## Konfigurera DietPi-Config (5 min)
 
 * Etablera fast IP i lokala nätverket samt korrekt IP till Default Gateway
+* Använd trådat nätverk (DNS trivs inte med WiFi)
 * Ange t.ex Google's DNS (8.8.8.8 och 8.8.4.4) som ny DNS 
 * Avsluta DietPi-Config
 * ```reboot```
