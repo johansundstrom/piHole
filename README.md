@@ -4,7 +4,7 @@ Hur jag installerade PiHole på 15 minuter
 
 Förutsättningar
 * RPi3 (alla modeller med Ethernet fungerar)
-* >= 4GB SD
+* > = 4GB SD
 * DietPi OS (64-bit)
 
 ## Installera DietPi (5 min)
