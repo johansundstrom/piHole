@@ -42,5 +42,5 @@ Förutsättningar
 
 ## Bonus
 
-* Registrera pihole.<din-domän>
+* Registrera pihole.<din-domän> i din DNS-tjänst på Internet
 * Registrera pihole.<din-domän> och port forward 80 till t.ex. 8888 i din router genom ```sudo sed -ie "s/= 80/= 8888/g" /etc/lighttpd/lighttpd.conf```
